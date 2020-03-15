@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Deleted code is a debugged code.
 Use the left arrow to go back!
